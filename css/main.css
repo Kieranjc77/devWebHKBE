@@ -1,0 +1,60 @@
+body {
+    background-color: #0b1328;
+    background-size: contain;
+  }
+
+img[src="images/The_Knight.png"] {
+    border-radius: 50%;
+    max-width: 7%;
+    height: auto;
+    display: block;
+    margin-left: 280px;
+    border:whitesmoke 5px solid;
+}
+
+
+
+#header {
+    color: floralwhite;
+    margin-left: 575px;
+    font-size: x-large;
+
+}
+
+
+#dircBorder {
+    border:darkslateblue solid;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+#navText {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+
+#text {
+    border:darkslateblue solid;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: whitesmoke;
+    font: large;
+}
+
+img[src="Images/71yDmkkDfZL._AC_SL1000_.jpg"] {
+    border-radius: 50%;
+    max-width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:whitesmoke 10px solid;
+  }
+
